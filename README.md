@@ -1,4 +1,4 @@
-# Evolutionary_Computing
+# Evolutionary Computing
 Repository for the evolutionary computing course at UFMG in 2020/1. Mainly topics include Combinatorial Optimization, Genetic Algorithms (GA), Differential Evolution (DE), and Particle Swarm Optimization (PSO).
 
 These are all the projects implemented in Python Notebooks step-by-step:
