@@ -3,7 +3,7 @@ Repository for the evolutionary computing course at UFMG in 2020/1. Mainly topic
 
 These are all the projects implemented in Python Notebooks step-by-step:
 
-1. [N-queens problem:]() an introduction into genetic algorithm concepts using the classical n-queens problem.
+1. [N-queens problem:](https://github.com/hernaneBraga/Evolutionary_Computing/tree/main/1%20-%20N-queens%20Problem) an introduction into genetic algorithm concepts using the classical n-queens problem.
 
 2. [Solving a Knapsack problem](https://github.com/hernaneBraga/Evolutionary_Computing/tree/main/2%20-%20Knapsack%20Problem) using a GA with a roulette wheel to rank solutions.
 
@@ -11,8 +11,6 @@ These are all the projects implemented in Python Notebooks step-by-step:
 
 4. Using the [Differential Evolution method](https://github.com/hernaneBraga/Evolutionary_Computing/tree/main/4%20-%20Differential%20Evolution) to solve the non-convex and multimodal function rastrigin and peaks function. 
  
-<<<<<<< Updated upstream
- 5. Implementing a [Particle Swarm Optimization (PSO)](https://github.com/hernaneBraga/Evolutionary_Computing/tree/main/5%20-%20Particle%20Swarm%20Optimization) method and applying it to the rastrigin and peaks function.
-=======
- 5. Implementing a [Particle Swarm Optimization (PSO)](https://github.com/hernaneBraga/Evolutionary_Computing/tree/main/5%20-%20Particle%20Swarm%20Optimization) method and applying it to the rastrigin and peaks function.
->>>>>>> Stashed changes
+5. Implementing a [Particle Swarm Optimization (PSO)](https://github.com/hernaneBraga/Evolutionary_Computing/tree/main/5%20-%20Particle%20Swarm%20Optimization) method and applying it to the rastrigin and peaks function.
+
+
